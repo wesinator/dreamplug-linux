@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <updated>2011-02-16T02:52:57Z</updated>
+ <id>http://code.google.com/feeds/p/dreamplug/svnchanges/basic</id>
+ <title>Subversion commits to project dreamplug on Google Code</title>
+ <link rel="alternate" type="text/html" href="http://code.google.com/p/dreamplug/source/list"/>
+ <link rel="self" type="application/atom+xml;type=feed" href="http://code.google.com/feeds/p/dreamplug/svnchanges/basic"/>
+  <entry>
+ <updated>2011-02-16T02:52:57Z</updated>
+ <id>http://code.google.com/feeds/p/dreamplug/svnchanges/basic/1</id>
+ <link rel="alternate" type="text/html"
+ href="http://code.google.com/p/dreamplug/source/detail?r=1" />
+ <title>Revision 1: Initial directory structure.</title>
+ <author>
+ <name>---</name>
+ </author>
+ <content type="html">
+ Changed Paths:&lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/branches
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/tags
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/trunk
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/wiki
+ 
+ &lt;br/&gt;
+ &lt;br/&gt;Initial directory structure.
+ </content>
+</entry>
+ 
+</feed>

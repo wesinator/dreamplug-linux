@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <updated>2012-09-07T03:32:39Z</updated>
+ <id>http://code.google.com/feeds/p/dreamplug/issueupdates/basic</id>
+ <title>Issue updates for project dreamplug on Google Code</title>
+ <link rel="alternate" type="text/html" href="http://code.google.com/p/dreamplug/issues/list"/>
+ <link rel="self" type="application/atom+xml;type=feed" href="http://code.google.com/feeds/p/dreamplug/issueupdates/basic"/>
+ 
+ 
+ <entry>
+ <updated>2012-09-07T03:32:39Z</updated>
+ <id>http://code.google.com/feeds/p/dreamplug/issueupdates/basic/1</id>
+ <link rel="alternate" type="text/html" href="http://code.google.com/p/dreamplug/issues/detail?id=1" />
+ <title>Issue 1 created: &quot;Missing file, 2012, Aug 28&quot;</title>
+ <author>
+ <name>werne...@gmail.com</name>
+ </author>
+ <content type="html">&lt;pre&gt;&lt;b&gt;What steps will reproduce the problem?&lt;/b&gt;
+1. Try to download rootfs_dreamplug_v10_Aug-28-20128.tgz
+2. Look all over
+3. Fail to find tar.gz
+ &lt;/pre&gt;
+ </content>
+</entry>
+
+ 
+ 
+</feed>
