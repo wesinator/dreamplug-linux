@@ -1,0 +1,4 @@
+*.001 filter=lfs diff=lfs merge=lfs -text
+*.002 filter=lfs diff=lfs merge=lfs -text
+*.003 filter=lfs diff=lfs merge=lfs -text
+*.bz2 filter=lfs diff=lfs merge=lfs -text
